@@ -1,0 +1,2 @@
+C:\Users\RexIII\Documents\GitHub\3DGame\3D Game\3D Game\3D GameContent\obj\x86\Debug\3D GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\RexIII\Documents\GitHub\3DGame\3D Game\3D Game\3D GameContent\obj\x86\Debug\Audio\GameAudio.xml
